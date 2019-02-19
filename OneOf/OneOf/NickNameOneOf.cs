@@ -3,7 +3,7 @@ using JetBrains.Annotations;
 
 namespace Demo.OneOf
 {
-    public class NickNameOneOf
+    public struct NickNameOneOf
     {
         private readonly string _nickName;
 
